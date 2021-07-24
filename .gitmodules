@@ -1,7 +1,0 @@
-[submodule "TP1-DataCleaning-Properati"]
-	path = Properati-DataCleaning
-	url = https://github.com/stephanieizquierdo/Properati-DataCleaning
-  
-[submodule "TP2-LinearRegression-Properati"]
-	path = Properati-Predictor-Regresion-Lineal
-	url = https://github.com/stephanieizquierdo/Properati-Predictor-Regresion-Lineal
